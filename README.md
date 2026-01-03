@@ -76,13 +76,13 @@ Industry</p>
 </div>
 
 <!-- Project 1 -->
-<h3 id="project">Project 1:Exploring Mental Health Awareness and Support in the Tech
+<h3 id="project">Project :Exploring Mental Health Awareness and Support in the Tech
 Industry</h3>
 <p>
   This project explores mental health awareness, employee experiences, and organizational support in the technology sector using survey data from multiple countries. It highlights improved awareness but ongoing challenges like stigma and unequal access to mental health resources, emphasizing the need for supportive workplace policies.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/BAPI-SAHA-g19-sql-and-powerbi/blob/90229f09ab7df795d2a8e8a9deaef95ef0f4b195/Course%20report/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Bapi0204/State-of-Mental-Health-Support-in-Tech/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
